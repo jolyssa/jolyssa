@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jolyssa.info](https://jolyssa.info)
 
-- 📝 I regularly write articles on [https:// medium.com/@jolyssa.](https:// medium.com/@jolyssa.)
+- 📝 I regularly write articles on [https:// medium.com/@jolyssa](https:// medium.com/@jolyssa.)
 
 - 📫 How to reach me **jolyssa.armstrong@gmail.com**
 
