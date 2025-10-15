@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jolyssa</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://jolyssa.info](https://jolyssa.info)
+- 👨‍💻 All of my projects are available at [https://jolyssa.info](https://jolyssa.space)
 
 - 📝 I regularly write articles on  [https://medium.com/@jolyssa.](https://medium.com/@jolyssa.)
 
